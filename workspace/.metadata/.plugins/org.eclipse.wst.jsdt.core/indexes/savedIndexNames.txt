@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\ADMIN\Desktop\monduan-2021\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2193792408.index
+2136516623.index
+1022379119.index
+2730531055.index
+2551087366.index
+3213758713.index
+1491446486.index

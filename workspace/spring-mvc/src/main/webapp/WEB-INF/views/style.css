@@ -1,0 +1,7 @@
+button:hover {
+  opacity: 0.8;
+  color: #fff !important;
+}
+#dangnhap{
+	background-color: SeaGreen; border-radius: 8px;
+}
